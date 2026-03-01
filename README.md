@@ -1,5 +1,5 @@
 <h1 align="center">Selam, ben Berkay 👋</h1>
-<h3 align="center">Piri Reis Üniversitesi'nde MIS Öğrencisi | Veri Analizi Adayı</h3>
+<h3 align="center">Piri Reis Üniversitesi'nde MIS Öğrencisi | Veri Analisti Adayı</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berkay-güler-3b179a297">
