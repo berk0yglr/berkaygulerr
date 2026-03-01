@@ -15,7 +15,7 @@
 ### 🚀 Hakkımda
 
 - 🎓 Piri Reis Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** 3. sınıf öğrencisiyim.
-- 💻 Şu anda aktif olarak **üç farklı uygulama** geliştiriyor ve bir **okul altyapı sisteminin** kurulmasında görev alıyorum.
+- 💻 Şu anda aktif olarak **üç farklı uygulama** geliştiriyor ve yeni bir **okul altyapı sistemini** kurmaya çalışıyorum .
 - 📊 Ana odağım **Veri Analitiği**, **Python Otomasyonları** ve **SQL Veritabanı Yönetimi**.
 - 🌱 **Java**, **Web Geliştirme** ve **Veri Bilimi** alanlarındaki yeteneklerimi sürekli geliştiriyorum.
 - 🌍 **Hedefim:** Teknoloji ve veri alanındaki uzmanlığımı ileri taşımak için **Almanya'da yüksek lisans** yapmak.
