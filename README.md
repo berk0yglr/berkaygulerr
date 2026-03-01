@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Berkay 👋</h1>
-<h3 align="center">MIS Student @ Piri Reis University | Data Analytics Enthusiast</h3>
+<h1 align="center">Selam, ben Berkay 👋</h1>
+<h3 align="center">Piri Reis Üniversitesi'nde MIS Öğrencisi | Veri Analizi Tutkunu</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berkay-güler-3b179a297">
@@ -12,18 +12,20 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Hakkımda
 
-- 🎓 I'm currently studying **Management Information Systems** at Piri Reis University.
-- 💻 My main focus is **Data Analytics**, **Python Automation**, and **SQL Database Management**.
-- 🌱 I'm currently improving my skills in **Java**, **Web Development** and **Data Science**.
-- 💡 I enjoy solving real-world problems with data-driven solutions.
+- 🎓 Piri Reis Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** 3. sınıf öğrencisiyim.
+- 💻 Şu anda aktif olarak **üç farklı uygulama** geliştiriyor ve bir **okul altyapı sisteminin** kurulmasında görev alıyorum.
+- 📊 Ana odağım **Veri Analitiği**, **Python Otomasyonları** ve **SQL Veritabanı Yönetimi**.
+- 🌱 **Java**, **Web Geliştirme** ve **Veri Bilimi** alanlarındaki yeteneklerimi sürekli geliştiriyorum.
+- 🌍 **Hedefim:** Teknoloji ve veri alanındaki uzmanlığımı ileri taşımak için **Almanya'da yüksek lisans** yapmak.
+- 💡 Gerçek dünyadaki problemleri veri odaklı çözümlerle aşmaktan keyif alıyorum.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Kullandığım Diller ve Araçlar
 
-**Backend & Data Analysis**
+**Arka Plan (Backend) & Veri Analizi**
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -32,7 +34,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
-**Web Development & Frontend**
+**Web Geliştirme (Frontend)**
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -44,10 +46,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkaygulerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Berkay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berk0yglr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Berkay's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaygulerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk0yglr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
