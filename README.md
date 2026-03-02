@@ -23,41 +23,28 @@
 
 ---
 
-### 🛠️ Kullandığım Diller ve Araçlar
-
-**Arka Plan (Backend) & Veri Analizi**
 ## 🛠 Kullandığım Diller ve Araçlar
 
+### Arka Plan (Backend) & Veri Analizi
 <p align="left">
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-
 </p>
 
-
-
-**Web Geliştirme (Frontend)**
-
-<br>
-
+### Web Geliştirme (Frontend)
 <p align="left">
-
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
 </p>
+
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berk0yglr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 📊 GitHub İstatistiklerim
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berk0yglr&theme=dark&hide_border=true" alt="berk0yglr GitHub Streak" />
+</p>
