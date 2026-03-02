@@ -45,4 +45,4 @@
 </p>
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berk0yglr&theme=dark&hide_border=true)](https://git.io/streak-stats)
