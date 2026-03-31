@@ -46,5 +46,5 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berk0yglr&theme=dark&hide_border=true" alt="berk0yglr GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berk0yglr&theme=dark&hide_border=true&timezone=Europe/Istanbul&cache_bust=1" alt="berk0yglr GitHub Streak" />
 </p>
